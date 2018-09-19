@@ -1,2 +1,2 @@
-// Ajout d'un autre commentaire
+// Ajout d'un commentaire
 alert("Bonjour tout le monde!");
